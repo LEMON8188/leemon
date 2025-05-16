@@ -1,0 +1,125 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.olma{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+
+.box{
+    background-color: blueviolet;
+    border-radius: 20px;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+}
+.box2{
+    flex-direction: column;
+}
+
+.child{
+    width: 30px;
+    height: 30px;
+    background-color: orange;
+    border-radius: 8px;
+}
+.nok{
+    width: 30px;
+    height: 30px;
+    background-color: orange;
+    border-radius: 8px; 
+}
+
+.box3{
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.anor{
+    width: 25px;
+    height: 25px;
+    background-color: orange;
+    border-radius: 8px;
+}
+.box4{
+    justify-content: space-around;
+}
+.kiwi{
+    width: 30px;
+    height: 30px;
+    background-color: orange;
+    border-radius: 8px;
+}
+.up{
+    width: 30px;
+    height: 30px;
+    background-color: orange;
+    border-radius: 8px;
+}
+.cola{
+    height: 30px;
+    width: 30px;
+    background-color: orange;
+    border-radius: 8px;
+}
+.box5{
+    justify-content: flex-end;
+}
+.box6{
+    justify-content: center;
+}
+.pepsi{
+    width: 30px;
+    height: 30px;
+    background-color: orange;
+    border-radius: 8px;
+}
+.box7{
+    justify-content: space-around;
+}
+.fanta{
+    width: 30px;
+    height: 30px;
+    background-color: orange;
+    border-radius: 8px;
+}
+.flavis{
+    width: 30px;
+    height: 30px;
+    background-color: orange;
+    border-radius: 8px;
+}
+.box8{
+    align-items: flex-end;
+}
+.sprite{
+    width: 30px;
+    height: 30px;
+    background-color: orange;
+    border-radius: 8px;
+}
+.box9{
+    align-items: center;
+}
+.royal{
+    width: 30px;
+    height: 30px;
+    background-color: orange;
+    border-radius: 8px;
+}
+.moxito{
+    width: 30px;
+    height: 30px;
+    background-color: orange;
+    border-radius: 8px;
+}
+.box10{
+    justify-content: space-evenly;
+}
